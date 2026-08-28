@@ -1,11 +1,2 @@
-### IntelliJ IDEA ###
-.idea
-*.iws
-*.iml
-*.ipr
-
-### VS Code ###
-.vscode/
-
-### macOS ###
-.DS_Store
+# Caderno de estudo pessoal — mantido apenas em disco, sem versionar por enquanto
+caderno-algashop.html
